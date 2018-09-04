@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://woodcol.com/apps/jsmr.ipa</string>
+					<string>https://woodcol.com/apps/TestLua.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://woodcol.com/apps/jsmr-iPad%202-etc.ipa</string>
+					<string>https://woodcol.com/apps/TestLua-iPad%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,5</string>
@@ -71,7 +71,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://woodcol.com/apps/jsmr-iPhone%207%20Plus-etc.ipa</string>
+					<string>https://woodcol.com/apps/TestLua-iPhone%207%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,4</string>
